@@ -6,11 +6,11 @@
     background-repeat: repeat-x;
 }
 
-
-.timeline > li{
+.timeline > li {
     list-style-type: "🐾";
 }
 
-.avatar{
+.avatar {
     border-radius: 50%;
 }
+
