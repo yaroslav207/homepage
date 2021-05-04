@@ -1,0 +1,12 @@
+.divider.fat {
+    border-top: none;
+    width: 37%;
+    height: 20px;
+    background-image: url("./images/pawprints.svg");
+    background-repeat: repeat-x;
+}
+
+
+.timeline > li{
+    list-style-type: "🐾";
+}
