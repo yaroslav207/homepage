@@ -10,3 +10,7 @@
 .timeline > li{
     list-style-type: "🐾";
 }
+
+.avatar{
+    border-radius: 50%;
+}
